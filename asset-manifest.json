@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/krutik-20DCS112/static/css/main.a2cea707.css",
+    "main.js": "/krutik-20DCS112/static/js/main.e352e0fe.js",
+    "static/js/787.858afd48.chunk.js": "/krutik-20DCS112/static/js/787.858afd48.chunk.js",
+    "index.html": "/krutik-20DCS112/index.html",
+    "main.a2cea707.css.map": "/krutik-20DCS112/static/css/main.a2cea707.css.map",
+    "main.e352e0fe.js.map": "/krutik-20DCS112/static/js/main.e352e0fe.js.map",
+    "787.858afd48.chunk.js.map": "/krutik-20DCS112/static/js/787.858afd48.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2cea707.css",
+    "static/js/main.e352e0fe.js"
+  ]
+}
