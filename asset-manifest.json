@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/krutik-20DCS112/static/css/main.a2cea707.css",
-    "main.js": "/krutik-20DCS112/static/js/main.e352e0fe.js",
-    "static/js/787.858afd48.chunk.js": "/krutik-20DCS112/static/js/787.858afd48.chunk.js",
-    "index.html": "/krutik-20DCS112/index.html",
-    "main.a2cea707.css.map": "/krutik-20DCS112/static/css/main.a2cea707.css.map",
-    "main.e352e0fe.js.map": "/krutik-20DCS112/static/js/main.e352e0fe.js.map",
-    "787.858afd48.chunk.js.map": "/krutik-20DCS112/static/js/787.858afd48.chunk.js.map"
+    "main.css": "/krutik__20dcs112/static/css/main.4495e17b.css",
+    "main.js": "/krutik__20dcs112/static/js/main.bebddd42.js",
+    "static/js/787.858afd48.chunk.js": "/krutik__20dcs112/static/js/787.858afd48.chunk.js",
+    "index.html": "/krutik__20dcs112/index.html",
+    "main.4495e17b.css.map": "/krutik__20dcs112/static/css/main.4495e17b.css.map",
+    "main.bebddd42.js.map": "/krutik__20dcs112/static/js/main.bebddd42.js.map",
+    "787.858afd48.chunk.js.map": "/krutik__20dcs112/static/js/787.858afd48.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a2cea707.css",
-    "static/js/main.e352e0fe.js"
+    "static/css/main.4495e17b.css",
+    "static/js/main.bebddd42.js"
   ]
 }
